@@ -1,0 +1,53 @@
+body
+{
+    font-family: 'Quicksand', sans-serif;
+    background-image: URL(background.jpg);
+    background-size: cover;
+    color: #FAD6A5;
+}
+
+#title
+{
+    font-size: 23px;
+    border: none;
+    background-color: #61764B;
+    
+}
+
+#start
+{
+    background-color: #9BA17B;
+    border: none;
+    font-size: 20px;
+}
+
+#objects_number
+{
+    background-color: #CFB997;
+    border: none;
+    font-size: 20px;
+}
+
+#status
+{
+    background-color: #CFB997;
+    border: none;
+    font-size: 20px;
+}
+
+canvas
+{
+    border-style: solid;
+    border-color: #CFB997;
+    border-width: 5px;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 110px;
+}
+
+#copyright_footer
+{
+    position: fixed;
+    width: 100%;
+    bottom: 5;
+}
